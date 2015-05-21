@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css" />
+
+        <title>Pedometer Test - Fuse Post-Op App</title>
+    </head>
+    <body>
+
+        <h3>Pedometer Testing - Fuse v2.0</h3>
+        <div class="panel panel-default">
+            <div class="panel-heading">Device Checks</div>
+            <div class="panel-body">
+
+                <div class="row">
+                    <div class="col-xs-10">
+                        Step Count Available
+                    </div>
+                    <div class="col-xs-2">
+                        <span id="checkStep" class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-10">
+                        Distance Available
+                    </div>
+                    <div class="col-xs-2">
+                        <span id="checkDistance" class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-10">
+                        Floor Count Available
+                    </div>
+                    <div class="col-xs-2">
+                        <span id="checkFloor" class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-striped">
+            <thead>
+                <th>Day</th>
+                <th>Steps</th>
+                <th>Distance</th>
+                <th>Floors asc</th>
+                <th>Floors desc</th>
+            </thead>
+            <tbody id="dataTable"></tbody>
+        </table>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Execution Logs</div>
+            <div id="error" class="panel-body"></div> 
+        </div>
+
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/undescore.js"></script>
+        <script type="text/javascript" src="js/moment.js"></script>
+
+
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

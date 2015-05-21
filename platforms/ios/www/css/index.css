@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+
+.glyphicon-ok {
+    color: green;
+}
+
+.glyphicon-remove {
+    color: red;
+}

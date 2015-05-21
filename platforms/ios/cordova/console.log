@@ -1,0 +1,86 @@
+2015-05-20 21:37:44.680 ImbasPedometer[16522:3312762] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Data/Application/7FE97C82-5C60-4C74-B750-AF64EBAAC622/Library/Cookies/Cookies.binarycookies
+2015-05-20 21:37:45.145 ImbasPedometer[16522:3312762] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 21:37:45.145 ImbasPedometer[16522:3312762] Multi-tasking -> Device: YES, App: YES
+2015-05-20 21:37:45.190 ImbasPedometer[16522:3312762] Unlimited access to network resources
+2015-05-20 21:37:45.197 ImbasPedometer[16522:3312762] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-20 21:37:45.735 ImbasPedometer[16522:3312762] [CDVTimer][pedometer] 0.053048ms
+2015-05-20 21:37:45.735 ImbasPedometer[16522:3312762] [CDVTimer][TotalPluginStartup] 0.271976ms
+2015-05-20 21:37:46.423 ImbasPedometer[16522:3312762] Resetting plugins due to page load.
+2015-05-20 21:37:46.662 ImbasPedometer[16522:3312762] Finished load of: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Bundle/Application/6B8F817C-CA1C-4124-85B8-62BB7237C44C/ImbasPedometer.app/www/index.html
+2015-05-20 21:37:46.723 ImbasPedometer[16522:3312762] THREAD WARNING: ['Pedometer'] took '20.618896' ms. Plugin should use a background thread.
+2015-05-20 21:37:46.750 ImbasPedometer[16522:3312762] Error in Success callbackId: Pedometer1268220536 : ReferenceError: Can't find variable: _
+2015-05-20 21:43:56.603 ImbasPedometer[16645:3353473] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Data/Application/5D9F8F53-25CC-4A65-A231-93086D12E897/Library/Cookies/Cookies.binarycookies
+2015-05-20 21:43:56.724 ImbasPedometer[16645:3353473] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 21:43:56.724 ImbasPedometer[16645:3353473] Multi-tasking -> Device: YES, App: YES
+2015-05-20 21:43:56.737 ImbasPedometer[16645:3353473] Unlimited access to network resources
+2015-05-20 21:43:56.746 ImbasPedometer[16645:3353473] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-20 21:43:56.822 ImbasPedometer[16645:3353473] [CDVTimer][pedometer] 0.045002ms
+2015-05-20 21:43:56.822 ImbasPedometer[16645:3353473] [CDVTimer][TotalPluginStartup] 0.243008ms
+2015-05-20 21:43:57.059 ImbasPedometer[16645:3353473] Resetting plugins due to page load.
+2015-05-20 21:43:57.203 ImbasPedometer[16645:3353473] Finished load of: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Bundle/Application/BF3FB804-8CDB-48E8-82B9-10624FC0249B/ImbasPedometer.app/www/index.html
+2015-05-20 21:43:57.281 ImbasPedometer[16645:3353473] Error in Success callbackId: Pedometer1523404329 : ReferenceError: Can't find variable: _
+2015-05-20 21:46:16.341 ImbasPedometer[16728:3365547] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Data/Application/466A43EE-1EFF-4FC3-A33D-21BD500B1404/Library/Cookies/Cookies.binarycookies
+2015-05-20 21:46:16.413 ImbasPedometer[16728:3365547] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 21:46:16.414 ImbasPedometer[16728:3365547] Multi-tasking -> Device: YES, App: YES
+2015-05-20 21:46:16.415 ImbasPedometer[16728:3365547] Unlimited access to network resources
+2015-05-20 21:46:16.418 ImbasPedometer[16728:3365547] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-20 21:46:16.505 ImbasPedometer[16728:3365547] [CDVTimer][pedometer] 0.046015ms
+2015-05-20 21:46:16.505 ImbasPedometer[16728:3365547] [CDVTimer][TotalPluginStartup] 0.272989ms
+2015-05-20 21:46:16.558 ImbasPedometer[16728:3365547] Resetting plugins due to page load.
+2015-05-20 21:46:16.649 ImbasPedometer[16728:3365547] Finished load of: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Bundle/Application/EC413A5F-D18B-49BB-BE3E-37206AA9DB99/ImbasPedometer.app/www/index.html
+2015-05-20 21:46:16.731 ImbasPedometer[16728:3365547] Error in Success callbackId: Pedometer24343327 : ReferenceError: Can't find variable: _
+2015-05-20 21:46:48.852 ImbasPedometer[16799:3369187] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Data/Application/BEB26BF4-D8EE-4022-B733-ECE9D2A862E3/Library/Cookies/Cookies.binarycookies
+2015-05-20 21:46:48.927 ImbasPedometer[16799:3369187] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 21:46:48.928 ImbasPedometer[16799:3369187] Multi-tasking -> Device: YES, App: YES
+2015-05-20 21:46:48.930 ImbasPedometer[16799:3369187] Unlimited access to network resources
+2015-05-20 21:46:48.932 ImbasPedometer[16799:3369187] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-20 21:46:49.044 ImbasPedometer[16799:3369187] [CDVTimer][pedometer] 0.049949ms
+2015-05-20 21:46:49.044 ImbasPedometer[16799:3369187] [CDVTimer][TotalPluginStartup] 0.279009ms
+2015-05-20 21:46:49.139 ImbasPedometer[16799:3369187] Resetting plugins due to page load.
+2015-05-20 21:46:49.475 ImbasPedometer[16799:3369187] Finished load of: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Bundle/Application/B2C0E135-117D-4E12-868B-6B9FA2DA2832/ImbasPedometer.app/www/index.html
+2015-05-20 21:46:49.574 ImbasPedometer[16799:3369187] Error in Success callbackId: Pedometer1084160360 : ReferenceError: Can't find variable: _
+2015-05-20 21:48:12.468 ImbasPedometer[16883:3378151] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Data/Application/0295446E-B438-4EE5-8FB9-AFEE7AC289C7/Library/Cookies/Cookies.binarycookies
+2015-05-20 21:48:12.523 ImbasPedometer[16883:3378151] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-20 21:48:12.523 ImbasPedometer[16883:3378151] Multi-tasking -> Device: YES, App: YES
+2015-05-20 21:48:12.551 ImbasPedometer[16883:3378151] Unlimited access to network resources
+2015-05-20 21:48:12.554 ImbasPedometer[16883:3378151] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-20 21:48:12.634 ImbasPedometer[16883:3378151] [CDVTimer][pedometer] 0.051022ms
+2015-05-20 21:48:12.634 ImbasPedometer[16883:3378151] [CDVTimer][TotalPluginStartup] 0.295997ms
+2015-05-20 21:48:12.684 ImbasPedometer[16883:3378151] Resetting plugins due to page load.
+2015-05-20 21:48:12.789 ImbasPedometer[16883:3378151] Finished load of: file:///Users/ezabaw/Library/Developer/CoreSimulator/Devices/A5E201A0-86A7-43A1-BD4E-4D0108234348/data/Containers/Bundle/Application/8D3F9893-F74F-4DA0-BEEC-25CD099394B2/ImbasPedometer.app/www/index.html
+2015-05-20 21:48:12.868 ImbasPedometer[16883:3378151] Error in Success callbackId: Pedometer933815994 : ReferenceError: Can't find variable: _

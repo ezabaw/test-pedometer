@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.imbassolutions.pedometer" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ImbasPedometer</name>
+    <description>
+        App to test capabilities of retrieving steps data
+    </description>
+    <author email="ezael.bello@imbassolutions.com" href="http://imbassolutions.com">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

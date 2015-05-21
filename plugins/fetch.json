@@ -1,0 +1,22 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        }
+    },
+    "cordova-plugin-pedometer": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-pedometer"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
